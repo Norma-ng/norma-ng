@@ -4,7 +4,7 @@ Mi nombre es Norma González, soy ingeniera eléctrica egresada de la UNAM con m
 
 A lo largo de mi carrera he gestionado portafolios de más de 55 sitios fotovoltaicos (+30 MWp), traduciendo datos operativos en decisiones estratégicas que impactan directamente en la rentabilidad y eficiencia de los activos. He trabajado de cerca con contratos PPA, KPIs operativos, análisis costo-beneficio y reportes ejecutivos para dirección e inversionistas.
 
-## ¿Hacia dónde voy? 🔭
+## Hacia dónde voy? 🔭
 Estoy en una transición intencional hacia roles de análisis de negocio, inteligencia operativa y gestión de portafolios, donde pueda integrar mi experiencia técnica con herramientas de análisis de datos para generar insights que soporten la toma de decisiones estratégicas.
 
 Mi propuesta de valor no es la de un analista de datos tradicional, es la de alguien que entiende los activos desde adentro, conoce el impacto operativo de cada dato, y puede traducir esa información en lenguaje de negocio.
